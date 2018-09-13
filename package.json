@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/raakhus/liri-node-app#readme",
   "dependencies": {
+    "omdb": "^0.8.0",
     "request": "^2.88.0"
   }
 }
