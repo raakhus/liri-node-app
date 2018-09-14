@@ -26,12 +26,12 @@ inquirer.prompt([
 ]).then(function (answers) {
   if (answers.list === 'Search spotify for information on songs') {
     console.log('searching Spotify for information on' + answers.input)
-
+    search.findSong(answers.input);
   }
   if (answers.list === 'Search OMDB for information on movies') {
     console.log('searching OMDB for information on ' + answers.input)
     search.findMovie(answers.input);
-    }
+  }
   if (answers.list === 'Search Bands in Town for information on concerts') {
     console.log('searching Bands in Town for information on' + answers.input)
 
