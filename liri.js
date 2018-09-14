@@ -1,12 +1,7 @@
-// require("dotenv").config();
-var request = require("request");
+var fs = require("fs");
 var inquirer = require('inquirer')
 var Search = require('./search')
 var search = new Search();
-// request("http://www.omdbapi.com/?t=remember+the+titans&y=&plot=short&apikey=trilogy", function (error, response, body) {
-//   console.log("The movie's rating is: " + JSON.parse(body).imdbRating);
-// }
-// );
 inquirer.prompt([
 
   {
@@ -19,7 +14,7 @@ inquirer.prompt([
   {
     type: "input",
     name: "input",
-    message: "search: ",
+    message: "search: "
 
   }
 
@@ -34,11 +29,13 @@ inquirer.prompt([
   }
   if (answers.list === 'Search Bands in Town for information on concerts') {
     console.log('searching Bands in Town for information on' + answers.input)
-
+    search.findConcert(answers.input);
   }
   if (answers.list === "I'm not bold enough to choose") {
     console.log('You are not bold and Get what I spit out')
-
-  }
-})
+    fs.readFile("random.txt", "utf8", function (err, data) {
+      search.findSong(data)
+    });
+  };
+});
 

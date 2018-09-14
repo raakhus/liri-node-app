@@ -16,3 +16,91 @@ Runtime (seconds): 168
 Artists: blink-182
 ------------------------------------------------------------
 
+Title: Rampage
+
+Year: 2018
+
+Rating: PG-13
+
+Runtime: 107 min
+
+Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+------------------------------------------------------------
+
+Title: I Want It That Way
+
+Explicit: false
+
+Runtime (seconds): 213.6
+
+Artists: Backstreet Boys
+------------------------------------------------------------
+
+Event: Skrillex @ Listen Out Melbourne in Melbourne, Australia
+
+Date: Saturday, September 22, 2018 at 12:00PM
+
+location: Melbourne, Australia
+
+Tickets?: available
+
+Ticket Type: Tickets
+
+Tickets Sale Starts:2018-05-24T12:00:55
+------------------------------------------------------------
+
+Event: Skrillex @ Listen Out Melbourne in Melbourne, Australia
+
+Date: Saturday, September 22, 2018 at 12:00PM
+
+location: Melbourne, Australia
+
+Tickets?: available
+
+Ticket Type: Tickets
+
+Tickets Sale Starts:May 24, 2018 12:00 PM
+------------------------------------------------------------
+
+Title: Pink + White
+
+Explicit: false
+
+Runtime (seconds): 00:03:04
+
+Artists: Frank Ocean
+------------------------------------------------------------
+
+Title: Rampage
+
+Year: 2018
+
+Rating: PG-13
+
+Runtime: 107 min
+
+Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+------------------------------------------------------------
+
+Title: Rampage
+
+Year: 2018
+
+Rating: PG-13
+
+Runtime: 107
+
+Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+------------------------------------------------------------
+
+Title: Rampage
+
+Year: 2018
+
+Rating: PG-13
+
+Runtime: 01:47:00
+
+Plot: When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+------------------------------------------------------------
+
